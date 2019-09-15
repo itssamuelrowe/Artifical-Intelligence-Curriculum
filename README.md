@@ -1,5 +1,7 @@
 # Artifical Intelligence Curriculum
 
-## Classification
+## Machine Learning
+
+### Classification
  * K-Nearest Neighbor Search
  * K-Dimensional Tree
