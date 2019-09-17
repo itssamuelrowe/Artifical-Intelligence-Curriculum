@@ -11,3 +11,9 @@
  * Chebyshev Distance
  * K-Nearest Neighbor Search
  * K-Dimensional Tree
+
+#### Decision Tree
+ * Shannon Entropy
+ * ID3
+ * C4.5
+ * CART
