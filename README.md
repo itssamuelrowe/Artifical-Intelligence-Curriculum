@@ -17,3 +17,10 @@
  * ID3
  * C4.5
  * CART
+
+## Neural Networks
+ * McCulloch-Pitts Non-linear Neuron Model
+ * Types of Activiation Functions
+ * Types of Neural Network Architectures
+ * Rosenblatt's Perceptron
+ * Rosenblatt's Perceptron Convergence Theorem
